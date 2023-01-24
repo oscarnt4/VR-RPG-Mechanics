@@ -1,0 +1,49 @@
+					Pirates						|Assassins						
+
+Part 1: Joining			You meet someone who tells you that both the pirates and assassins each have one of 
+					two parts to *something* that they both need. They tell you that they know where 
+					they are both keeping them and suggest stealing one to sell to the other.
+
+					You fight your way through the assassin 	|You sneak your way through the pirate 
+					hideout, retrieve the *item* and bring	|hideout, retrieve the *item* and bring
+					it to the pirates. They say they can't	|it to the assassins. They offer to 
+					pay you yet, but if you join them you	|train you as an assassin as payment
+					can have your share of the bounty.		|for retrieving it.
+
+Part 2: Proving Yourself	To prove yourself a loyal pirate they ask	|After teaching you the basics, your first
+					you to take part in looting a nearby rich	|assignment is to assassinate a local rich
+					guys mansion. Your job is to find the 	|guy (come up with a reason, maybe you find
+					rich guy amongst the comotion and take 	|out the reason afterwards). You have to 
+					him hostage. You use him to take you to	|sneak into the mansion, kill him, and leave
+					the valuable stuff, but after retrieving	|without getting spotted. Once you return
+					the stuff you are ordered to kill him	|you will be fully inducted into the
+					anyway, to show that you can obey orders.	|assassins.
+
+					(maybe the pirates and assassins are hired by the same person to sabotage the rich guy
+					because he is their business rival or something, and maybe the pirates kill him by 
+					accident so that there is a good moral option)
+
+Part 3: Finding the *Thing*	Now that you a full member of the pirate	|Now that you are a fully inducted assassin,
+					crew, they tell you about their plan. They|they reveal the true purpose of their guild.
+					have been hired by an anonymous benefactor|The purpose is to protect the *thing* from
+					to steal the *thing* from some cave, for	|being taken and used. One member of the 
+					which you will be greatly rewarded. Once 	|assassins (the anonymous benefactor of the
+					you arrive at the cave and the plan has 	|pirate quests) says that they have gotten
+					been laid out, whilst you are keeping 	|word that pirates are planning to steal it.
+					watch in the crows nest, the pirate 	|You all meet up at the location of the 
+					captain is assassinated. You and the 	|*thing*, you are told that the pirate ship
+					remaining pirates decide to go ahead with	|is stationed just off the coast, and you
+					the plan anyway. You complete a bunch of 	|are to sneak onboard and assassinate the
+					physics puzzles, fight some assassins,	|captain. You sneak into the captains chambers, 
+					concluding in a boss fight against a big	|block the entrance and a boss battle ensues 
+					boi assassin. You reach the *thing* only	|with the capatin. Once your task is completed, 
+					to find the anonymous benefactor (who 	|you jump out of the window, row back to shore and
+					turns out to be an assassin) there		|return to check on the *thing*, only to
+					already, you find out that you were just a|find the anonymous benefactor/assassin 
+					diversion for them, before they disappear	|with it already. They reveal the pirates
+					off with the thing. (you find out details |were hired by them as a distraction before
+					about what the thing is and why he wants	|disappearing with the *thing*.
+					it along the way)					|
+
+End Part: Using the *thing*	The *thing* becomes relevant to the main quest in some way, maybe it's one of many *things*
+					required to kick off the big conclusion to Chapter 1.

@@ -1,0 +1,45 @@
+Fighter	-Knight	> Move Combos
+		-Barbarian	> Strength Boosts/Special Attacks
+Archer	-Inventor	> new arrow types/floaty bombs
+		-Beastmaster> call on animal helpers (expand on this)
+Rogue		-Pirate	> weapon proficiencies (thrown, blow dart etc.)
+		-Assassin	> sneak abilities (hide in shadows, invisible)
+Mage		-Reg		> learn new runes
+		-Blood	> learn new necromancer abilities
+Druid		-Holy		> healing/buff abilities?,amulet scares demons?
+		-Demonic	> mixing potions for control etc.
+
+visually similar to iragon without the sexual anime stuff...
+
+CLASS		EQUIPMENT		ABILITIES
+Level 0:-
+Everyone	Telekenesis gloves
+
+Knight	Sword			Parry Jab Combo
+		Shield		Shield bash (breaks block)
+		health potions
+Barbarian	Hammer		2h Over Head Strike (breaks block)
+		Knuckle Dusters
+		Health potions
+Inventor	Bow
+		Regular Arrows
+		Spread Arrows
+		Health potions
+Beastmaster	Bow
+		Regular Arrows
+		Homing arrows>>sparrows
+		Beast whistle for sparrows
+Pirate	Scimitar
+		grapple hook
+		Health potions
+Assassin	Daggers		Throw daggers
+		Health potions	Hide in shadows (could be too op?)
+					/climb anything
+Mage		Spell rings		Fireball spell
+					Heal spell
+Blood Mage	Blood rings		Kill enemy with dagger to absorb health
+		Sacrifice dagger	continuous spell attack drains your health
+Holy Druid	Holy sword		sword held above head heals you
+		Holy amulet		amulet slows enemies when held in front
+Demon Druid	Sword			throw poison at enemies to poison groups
+		poison belt		put poison on sword for add. poison damage

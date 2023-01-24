@@ -1,0 +1,37 @@
+Level	Item		Actions
+
+0	Open Hands
+			Vocal Commands/
+			Spell Wheel
+			+ Throwing
+			+ Aiming
+			+ Touching
+1	Staff
+			Vocal Commands/
+			Spell Wheel
+			+ Thrust
+			+ "you shall not pass"
+			+ sky thrust
+			+ hold out veritcle
+			+ hold out horizontal
+			+ hold above head (tuscan raider style)
+1	Talismen
+			//Vocal Commands/
+			Spell Wheel//
+			Hold Up
+			Hold in front
+1	Blood Magic
+			Vocal Command/
+			Spell Wheel,
+			Cut hand
+			+ touch object
+			+ touch person
+			+ Touch wound
+2	Wand
+			Drawing Symbols
+			+ Thrust
+			+ Sky Thrust
+			+ Slash horizontal (LR/RL)
+			+ Slash verticle	(UpDown/DownUp)
+
+levelling >> lower cooldown time for spells (?), more spells learned

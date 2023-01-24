@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "fireRune">
+	<Stroke>
+		<Point X = "628.8834" Y = "719.2665" T = "0" Pressure = "0" />
+		<Point X = "641.6091" Y = "752.8191" T = "0" Pressure = "0" />
+		<Point X = "647.7891" Y = "781.9884" T = "0" Pressure = "0" />
+		<Point X = "655.9948" Y = "819.18" T = "0" Pressure = "0" />
+		<Point X = "666.8914" Y = "856.0806" T = "0" Pressure = "0" />
+		<Point X = "678.1386" Y = "894.8096" T = "0" Pressure = "0" />
+		<Point X = "687.7021" Y = "935.5195" T = "0" Pressure = "0" />
+		<Point X = "691.5929" Y = "964.9622" T = "0" Pressure = "0" />
+		<Point X = "696.6487" Y = "1007.503" T = "0" Pressure = "0" />
+		<Point X = "703.186" Y = "1047.65" T = "0" Pressure = "0" />
+		<Point X = "710.294" Y = "1084.587" T = "0" Pressure = "0" />
+		<Point X = "716.8469" Y = "1118.822" T = "0" Pressure = "0" />
+		<Point X = "725.5281" Y = "1153.822" T = "0" Pressure = "0" />
+		<Point X = "746.0737" Y = "1185.019" T = "0" Pressure = "0" />
+		<Point X = "765.2582" Y = "1153.984" T = "0" Pressure = "0" />
+		<Point X = "770.1313" Y = "1116.888" T = "0" Pressure = "0" />
+		<Point X = "786.4252" Y = "1079.072" T = "0" Pressure = "0" />
+		<Point X = "799.801" Y = "1045.603" T = "0" Pressure = "0" />
+		<Point X = "816.9973" Y = "1007.037" T = "0" Pressure = "0" />
+		<Point X = "833.8291" Y = "963.9078" T = "0" Pressure = "0" />
+		<Point X = "848.6047" Y = "922.5912" T = "0" Pressure = "0" />
+		<Point X = "862.9748" Y = "893.1322" T = "0" Pressure = "0" />
+		<Point X = "878.387" Y = "849.576" T = "0" Pressure = "0" />
+		<Point X = "893.2239" Y = "812.9177" T = "0" Pressure = "0" />
+		<Point X = "902.8817" Y = "781.1962" T = "0" Pressure = "0" />
+		<Point X = "916.8342" Y = "750.7127" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>
