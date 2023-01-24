@@ -26,12 +26,13 @@ public class FireBreathController : MonoBehaviour
         fireBreath.Stop();
     }
 
-    void OnParticleTrigger(GameObject other)
+    //Player damage testing
+    /*void OnParticleTrigger(GameObject other)
     {
         Debug.Log("aaa");
         int count = fireBreath.GetTriggerParticles(ParticleSystemTriggerEventType.Enter, particles);
         for(int i=0; i < count; i++){
             other.GetComponent<PlayerHealth>().TakeDamage(2);
         }
-    }
+    }*/
 }

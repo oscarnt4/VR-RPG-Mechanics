@@ -477,7 +477,6 @@ GameObject:
   m_Component:
   - component: {fileID: 332631597}
   - component: {fileID: 332631596}
-  - component: {fileID: 332631598}
   - component: {fileID: 332631599}
   m_Layer: 0
   m_Name: Gesture Recogniser
@@ -526,45 +525,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 332631595}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1019194939}
-  m_RootOrder: 0
+  m_Father: {fileID: 1329544221}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &332631598
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 332631595}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 872ef55f47e961e47853567dc26e953a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  drawButton:
-    m_UseReference: 1
-    m_Action:
-      m_Name: Draw Button
-      m_Type: 0
-      m_ExpectedControlType: 
-      m_Id: 7c321c6b-bb8c-41ba-817d-609801c6ee98
-      m_Processors: 
-      m_Interactions: 
-      m_SingletonActionBindings: []
-      m_Flags: 0
-    m_Reference: {fileID: -4486131731405795732, guid: c348712bda248c246b8c49b3db54643f,
-      type: 3}
-  drawSource: {fileID: 906834407}
-  creationMode: 0
-  newGestureName: 
-  thresholdPointDistance: 0.025
-  debugSphere: {fileID: 0}
-  gestureSpawn: {fileID: 1776996475}
-  lineWidth: 0.02
 --- !u!120 &332631599
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -2247,7 +2214,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 332631597}
   - {fileID: 1776996474}
   m_Father: {fileID: 519234628}
   m_RootOrder: 1
@@ -2529,6 +2495,7 @@ Transform:
   - {fileID: 906834407}
   - {fileID: 1748778058}
   - {fileID: 763855245}
+  - {fileID: 1486272549}
   m_Father: {fileID: 1599664886}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3101,6 +3068,7 @@ Transform:
   - {fileID: 2087690862}
   - {fileID: 1086495354}
   - {fileID: 303756302}
+  - {fileID: 332631597}
   m_Father: {fileID: 1599664886}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3642,6 +3610,170 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5734157357028584937}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1486272548
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1486272549}
+  - component: {fileID: 1486272551}
+  - component: {fileID: 1486272550}
+  m_Layer: 0
+  m_Name: Gesture Recogniser
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1486272549
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486272548}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1312981876}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!120 &1486272550
+LineRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486272548}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: fa0198c93b22bab4999117dbd58a51b0, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Positions:
+  - {x: 0, y: 2.3194668, z: -5.591554}
+  - {x: 0, y: 2.1115742, z: -6.218897}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 10
+    numCapVertices: 1
+    alignment: 0
+    textureMode: 1
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+--- !u!114 &1486272551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486272548}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 872ef55f47e961e47853567dc26e953a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  drawButton:
+    m_UseReference: 1
+    m_Action:
+      m_Name: Draw Button
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 7c321c6b-bb8c-41ba-817d-609801c6ee98
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    m_Reference: {fileID: -4486131731405795732, guid: c348712bda248c246b8c49b3db54643f,
+      type: 3}
+  drawSource: {fileID: 906834407}
+  creationMode: 0
+  newGestureName: 
+  thresholdPointDistance: 0.025
+  debugSphere: {fileID: 0}
+  gestureSpawn: {fileID: 1776996475}
+  lineWidth: 0.02
 --- !u!1 &1517092360
 GameObject:
   m_ObjectHideFlags: 0
@@ -4061,7 +4193,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1019194939}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1776996475
 MonoBehaviour:
@@ -5098,7 +5230,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 480080, guid: b020a4b750a712641b7a02b958ad56af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.7
+      value: 28.6
       objectReference: {fileID: 0}
     - target: {fileID: 480080, guid: b020a4b750a712641b7a02b958ad56af, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5106,7 +5238,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 480080, guid: b020a4b750a712641b7a02b958ad56af, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 23.1
+      value: 25.1
       objectReference: {fileID: 0}
     - target: {fileID: 480080, guid: b020a4b750a712641b7a02b958ad56af, type: 3}
       propertyPath: m_LocalRotation.w
