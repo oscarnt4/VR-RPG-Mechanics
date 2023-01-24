@@ -9,5 +9,5 @@ Also included is a POC of the spellcasting which involves drawing symbols (runes
 
 Ball spawner: Draw an O shape and release the trigger to spawn a ball which falls to the ground.
 
-Fireball: Draw a ^ symbol (hat shape -> /\) and release the trigger to generate the fireball. Punch the fireball whilst holding the grip button to fire it at a target.
+Fireball: Draw a ^ symbol (hat shape -> /\ ) and release the trigger to generate the fireball. Punch the fireball whilst holding the grip button to fire it at a target.
 
