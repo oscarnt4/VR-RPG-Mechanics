@@ -1,6 +1,10 @@
 # VR-RPG-Mechanics
 Game mechanics for different fighting styles for a future VR RPG game
 
+Explainer Video
+
+[![VR Swordfighting Mechanics Explained](https://img.youtube.com/vi/tx5e5EIj3L8/0.jpg)](https://www.youtube.com/watch?v=tx5e5EIj3L8)
+
 Currently contains movement mechanics (walking, running, jumping, dash backwards), turning mechanics (headset, snapturn) and hand animations/movement (hand tracking, fist, point, open hand). There is also an animated dragon asset for use of testing the fighting mechanics on with a health bar. Although the dragon does breathe fire, damage to the player has not yet been implemented.
 
 SPELLCASTING:
